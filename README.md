@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0907-koko-eating-bananas) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/HydrallHarsh/DSA-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1580-shuffle-the-array](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/HydrallHarsh/DSA-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
