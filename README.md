@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/HydrallHarsh/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HydrallHarsh/DSA-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1580-shuffle-the-array](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1580-shuffle-the-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/HydrallHarsh/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0907-koko-eating-bananas) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2716-prime-subtraction-operation) |
