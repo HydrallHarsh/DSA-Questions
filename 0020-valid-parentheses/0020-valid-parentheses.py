@@ -1,20 +1,14 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        stack = deque()
-        if(len(s) == 1):
-            return False
-        for i in s:
-            if(i == '(' or i == '{' or i=='['):
-                stack.append(i)
-            elif(i == ')' and len(stack) !=0 and stack[-1] == '('  ):
+        stack = []
+        stack_modified = False
+        pairs = {'}' : '{', ')' : '(', ']':'['}
+        for char in s:
+            # if char in pairs.values():
+            #     stack.append(char)
+            #     stack_modified = True
+            if char in pairs and stack and stack[-1] == pairs[char]:
                 stack.pop()
-            elif(i == ']' and len(stack) !=0 and stack[-1] == '[' ):
-                stack.pop()
-            elif(i == '}' and len(stack) !=0 and stack[-1] == '{'  ):
-                stack.pop()
-            else:
-                return False
-        if(len(stack) == 0):
-            return True
-        else:
-            return False
+                continue 
+            stack.append(char)
+        return len(stack) == 0
