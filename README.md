@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/0190-reverse-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/HydrallHarsh/DSA-Questions/tree/master/1009-complement-of-base-10-integer) |
 | [1940-maximum-xor-for-each-query](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3291-find-if-array-can-be-sorted) |
