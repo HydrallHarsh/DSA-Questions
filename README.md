@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/HydrallHarsh/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/HydrallHarsh/DSA-Questions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0326-power-of-three) |
