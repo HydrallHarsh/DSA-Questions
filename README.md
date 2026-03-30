@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/HydrallHarsh/DSA-Questions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0326-power-of-three) |
+| [2485-find-the-pivot-integer](https://github.com/HydrallHarsh/DSA-Questions/tree/master/2485-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2716-prime-subtraction-operation) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1940-maximum-xor-for-each-query) |
+| [2485-find-the-pivot-integer](https://github.com/HydrallHarsh/DSA-Questions/tree/master/2485-find-the-pivot-integer) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Sliding Window
 |  |
