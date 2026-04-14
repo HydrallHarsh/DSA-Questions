@@ -15,33 +15,26 @@ class Solution:
                 l.append(root)
                 return l
             l.append(root)
-            # print(l)
-            # if target in l:
-            #     return l
             if target < root.val :
                 dfs(root.left,target,l)
             
             if target > root.val:
                 dfs(root.right, target, l)
-            # print(l)
             return l
         temp = []
         l1 = []
         l2 = []
-        if p.val <= root.val:
-            l1 = dfs(root, p.val, [])
-            # print(l1)
-        if q.val > root.val:
-            l2 = dfs(root, q.val, [])
-            # print(l2)
-        if q.val <= root.val:
-            l2 = dfs(root, q.val, [])
-            # print(l1)
+        l1 = dfs(root, p.val, [])
+        l2 = dfs(root, q.val, [])
+        # if p.val <= root.val:
+        #     l1 = dfs(root, p.val, [])
+        # if q.val > root.val:
+        #     l2 = dfs(root, q.val, [])
+        # if q.val <= root.val:
+        #     l2 = dfs(root, q.val, [])
         
-        if p.val > root.val:
-            l1 = dfs(root, p.val, [])
-            # print(l2)
-        # print(l1,l2)
+        # if p.val > root.val:
+        #     l1 = dfs(root, p.val, [])
         smaller_len = min(len(l1),len(l2))
         if len(l1)<= len(l2):
             for i in range(smaller_len-1, -1, -1):
