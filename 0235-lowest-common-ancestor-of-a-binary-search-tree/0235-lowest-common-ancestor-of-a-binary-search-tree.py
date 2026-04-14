@@ -21,20 +21,8 @@ class Solution:
             if target > root.val:
                 dfs(root.right, target, l)
             return l
-        temp = []
-        l1 = []
-        l2 = []
         l1 = dfs(root, p.val, [])
         l2 = dfs(root, q.val, [])
-        # if p.val <= root.val:
-        #     l1 = dfs(root, p.val, [])
-        # if q.val > root.val:
-        #     l2 = dfs(root, q.val, [])
-        # if q.val <= root.val:
-        #     l2 = dfs(root, q.val, [])
-        
-        # if p.val > root.val:
-        #     l1 = dfs(root, p.val, [])
         smaller_len = min(len(l1),len(l2))
         if len(l1)<= len(l2):
             for i in range(smaller_len-1, -1, -1):
