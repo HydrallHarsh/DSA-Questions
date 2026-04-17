@@ -19,12 +19,12 @@ class Solution:
             if not root:
                 return True
             
-        
-            a  = dfs(root.left)
-            b = dfs(root.right)
             diff = abs(max_depth(root.left) - max_depth(root.right))
             if diff > 1:
                 return False
+        
+            a  = dfs(root.left)
+            b = dfs(root.right)
             return a and b
         
         return dfs(root)
