@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2716-prime-subtraction-operation) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/HydrallHarsh/DSA-Questions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
