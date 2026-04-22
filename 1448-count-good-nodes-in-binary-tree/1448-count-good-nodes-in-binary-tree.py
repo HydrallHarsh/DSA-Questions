@@ -21,7 +21,7 @@ class Solution:
             maps[tuple(currpath)] = max(currpath)
             # print(root.val, currpath, maps)
             if maps[tuple(currpath)] <= root.val:
-                print("i am in")
+                # print("i am in")
                 count +=1
             # if root.val > max()
             dfs(root.left,currpath)
