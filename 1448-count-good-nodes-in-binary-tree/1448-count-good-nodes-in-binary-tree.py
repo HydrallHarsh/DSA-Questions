@@ -18,9 +18,9 @@ class Solution:
                 return
             # if gmax =
             currpath.append(root.val)
-            maps[tuple(currpath)] = max(currpath)
+            # maps[tuple(currpath)] = max(currpath)
             # print(root.val, currpath, maps)
-            if maps[tuple(currpath)] <= root.val:
+            if max(currpath) <= root.val:
                 # print("i am in")
                 count +=1
             # if root.val > max()
